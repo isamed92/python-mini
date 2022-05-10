@@ -1,0 +1,26 @@
+print("\n# punto 2\n")
+print(1+2)
+print(1-2)
+print(1*2)
+print(1%2)
+print(1/2)
+print(2**3)
+print(16//2)
+
+print("\n# punto 3\n")
+
+print("Isaias")
+print("Medina")
+print("Argentina")
+print("estoy disfrutando de 30 dias de python")
+
+print("\n# punto 4\n")
+
+print(type(10))
+print(type(9.8))
+print(type(3.14))
+print(type(4-4j))
+print(type(["Asabeneh", "Python", "Findland"]))
+print(type("Isaias"))
+print(type("Medina"))
+print(type("Argentina"))
